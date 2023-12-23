@@ -26,7 +26,7 @@ from retry_requests import retry
 # SET PARAMETERS
 ################################################################################
 
-filepath = '/Users/michelleanderson/Documents/Gardening Dashboard/'
+filepath = ''
 
 today = date.today()
 
