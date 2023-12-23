@@ -27,7 +27,7 @@ import numpy as np
 # SET PARAMETERS
 ################################################################################
 
-filepath = '/Users/michelleanderson/Documents/Gardening Dashboard/'
+filepath = ''
 
 ################################################################################
 # RUN DATA GATHERER SCRIPTS
